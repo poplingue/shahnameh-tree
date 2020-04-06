@@ -29,6 +29,7 @@
     "yargs": "^4.6.0"
   },
   "dependencies": {
-    "gojs": "^2.1.12"
+    "gojs": "^2.1.12",
+    "lodash.template": "^4.5.0"
   }
 }
